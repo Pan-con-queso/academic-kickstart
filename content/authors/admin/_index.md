@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Francisco Sanhueza Matamala
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Estudiante de Magister en Matemáticas aplicadas
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universidad de Chile
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+intereses:
+- Teoría de Grafos
+- Visión Computacional
+- Algoritmos
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Licenciatura en ciencias de la ingeniería, mención Matemáticas
+    institution: Universidad de Chile
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
