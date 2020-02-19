@@ -65,6 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Estudiante de magister en ciencias de la ingeniería, mención matemática aplicada. Me interesa la computación, los grafos y la matemática discreta en general. También me gusta el cine, aprender de cosas random, la música y viajar.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Estoy realizando mi tesis de magister con [José Soto](http://www.dim.uchile.cl/~jsoto/), trabajando en el problema de encontrar algoritmos de aproximación para aumentar la nodo-conectividad de un ciclo, el cual tiene como motivación el problema del cableado de la internet chilena.
+
+Actualmente me encuentro en Grenoble, Francia haciendo una pasantía en el centro de investigación Inria implementando algoritmos de shape matching para ver similitud entre formas de proteínas.
