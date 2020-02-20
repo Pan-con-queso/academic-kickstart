@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2019-12-31"
   description = """
+
   *Revisión Bibliográfica exhaustiva de métricas de robustez de grafos para el año 2017 y 2018
   *Medición del efecto de cambiar el tipo de red física en robustez de redes de internet."""
 
@@ -51,6 +52,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = "2018-06-30"
   description = """
+
   *Medición del efecto de cambiar el tipo de red física en robustez de redes de internet."""
 
 
