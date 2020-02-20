@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = "www.niclabs.cl"
   location = "Santiago de Chile"
   date_start = "2018-03-01"
-  date_end = "2018-06-31"
+  date_end = "2018-06-30"
   description = """
 *Medición del efecto de cambiar el tipo de red física en robustez de redes de internet."""
 
