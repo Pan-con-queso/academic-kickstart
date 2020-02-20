@@ -14,8 +14,8 @@ role: Estudiante de Magister en Matemáticas aplicadas
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Chile
-  url: ""
+- name: Magíster en Ciencias de la Ingeniería, Mención Matemáticas Aplicadas. Universidad de Chile
+  url: "http://postgrado.dim.uchile.cl/magister"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
