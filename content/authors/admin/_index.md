@@ -29,7 +29,7 @@ education:
   courses:
   - course: Licenciatura en ciencias de la ingeniería, mención Matemáticas
     institution: Universidad de Chile
-    year: 2012
+    year: 2018
 
 
 # Social/Academic Networking
