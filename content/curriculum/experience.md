@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experiencia Laboral"
-subtitle = ""
+subtitle = "Ámbito profesional"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -33,12 +33,24 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Asistente de Investigación"
+  company = "Nic Chile Research Labs"
+  company_url = "www.niclabs.cl"
+  location = "Santiago de Chile"
+  date_start = "2018-07-01"
+  date_end = "2019-12-31"
+  description = """*Revisión Bibliográfica exhaustiva de métricas de robustez de grafos para el año 2017 y 2018
+*Medición del efecto de cambiar el tipo de red física en robustez de redes de internet."""
+
+[[experience]]
+  title = "Práctica Profesional"
+  company = "Nic Chile Research Labs"
+  company_url = "www.niclabs.cl"
+  location = "Santiago de Chile"
+  date_start = "2018-03-01"
+  date_end = "2018-06-31"
+  description = """
+*Medición del efecto de cambiar el tipo de red física en robustez de redes de internet."""
+
 
 +++
