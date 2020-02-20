@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Grenoble"
   date_start = "2020-01-06"
   date_end = "2020-03-31"
-  description = "Matching and reconstruction of 3D shapes using high-order special functions"
+  description = """Trabajo en el tema *Matching and reconstruction of 3D shapes using high-order special functions* en el equipo NANO-D-POST
   Algunos de los temas que me ha tocado tratar han sido:
   
   * Uso de librerías científicas avanzadas
