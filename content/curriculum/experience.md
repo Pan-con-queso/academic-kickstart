@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Practicante"
   company = "Institut National de Recherche en Informatique et en Automatique (INRIA)"
   company_url = ""
-  location = "Grenoble"
+  location = "Grenoble, Francia"
   date_start = "2020-01-06"
   date_end = "2020-03-31"
   description = """Trabajo en el tema *Matching and reconstruction of 3D shapes using high-order special functions* en el equipo NANO-D-POST
@@ -52,6 +52,27 @@ date_format = "Jan 2006"
   date_end = "2018-06-30"
   description = """
   * Medición del efecto de cambiar el tipo de red física en robustez de redes de internet."""
+
+[[experience]]
+  title = "Práctica Profesional"
+  company = "Clínica INDISA"
+  company_url = ""
+  location = "Santiago de Chile"
+  date_start = "2017-01-16"
+  date_end = "2017-02-14"
+  description = """
+  * Usé estadística y bases de datos para detectar pacientes que no se presentaban a sus horas agendadas.
+  * Elaboración de estudio sobre funcionalidades de páginas webs de distintas clínicas"""
+
+[[experience]]
+  title = "Práctica Profesional"
+  company = "Laboratorio de Investigación Pesquera, en la Universidad Austral de Chile"
+  company_url = ""
+  location = "Puerto Montt, Chile"
+  date_start = "2018-03-01"
+  date_end = "2018-06-30"
+  description = """
+  * Construí bases de datos para programas de investigación pesquera."""
 
 
 +++
