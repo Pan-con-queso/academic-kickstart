@@ -23,11 +23,21 @@ date_format = "Jan 2006"
   company = "Ecuaciones Diferenciales Ordinarias"
   company_url = ""
   location = "Universidad de Chile"
-  date_start = "2019-03-01"
-  date_end = "2019-07-01"
+  date_start = "Otoño 2019"
+  date_end = "Otoño 2019"
   description = """
   Hice clases con metodología RP (resolución de problemas)
   """
 
+[[teaching]]
+  title = "Auxiliar de Control"
+  company = "Calculo Diferencial e Integral"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "Otoño 2018"
+  date_end = "Otoño 2018"
+  description = """
+  Di indicaciones en sala y respondí dudas de enunciado durante los controles.
+  """
 
 +++
