@@ -22,15 +22,11 @@ date_format = "Jan 2006"
   title = "Profesor Auxiliar"
   company = "Ecuaciones Diferenciales Ordinarias"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Universidad de Chile"
+  date_start = "2019-03-01"
+  date_end = "2019-07-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Hice clases con metodología RP (resolución de problemas)
   """
 
 
