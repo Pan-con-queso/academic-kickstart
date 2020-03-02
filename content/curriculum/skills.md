@@ -14,12 +14,12 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-Habilidades Computacionales
-----------
+## __Habiliades Computacionales__
 Python, Latex, Matlab, C++, Microsoft Office, Java
 
-Idiomas
-----------
+---
+
+## __Idiomas__
 * Español (Nativo)
 * Inglés (Intermedio), PET aprobado
 
