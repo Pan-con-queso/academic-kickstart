@@ -40,4 +40,70 @@ date_format = "Jan 2006"
   Di indicaciones en sala y respondí dudas de enunciado durante los controles.
   """
 
+[[teaching]]
+  title = "Ayudante"
+  company = "Diseño y análisis de algoritmos"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2019-03-01"
+  date_end = "2019-07-01"
+  description = """
+  Corrección de controles y tareas
+  """
+
+[[teaching]]
+  title = "Ayudante"
+  company = "Matemáticas discretas para la computación"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2017-03-01"
+  date_end = "2018-12-01"
+  description = """
+  Corrección de controles y tareas en los semestres Otoño 2017, Primavera 2017 y Primavera 2018
+  """
+
+[[teaching]]
+  title = "Ayudante"
+  company = "Introducción al Cálculo"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2016-08-01"
+  date_end = "2016-12-01"
+  description = """
+  Corrección de controles en el semestre de Primavera 2016
+  """
+
+[[teaching]]
+  title = "Ayudante"
+  company = "Probabilidades y Estadística"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2016-03-01"
+  date_end = "2016-17-01"
+  description = """
+  Corrección de controles en el semestre de Otoño 2016
+  """
+
+[[teaching]]
+  title = "Ayudante"
+  company = "Cálculo Diferencial e Integral"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2015-08-01"
+  date_end = "2016-12-01"
+  description = """
+  Corrección de controles en el semestre de Primavera 2015 y Primavera 2016
+  """
+
+[[teaching]]
+  title = "Ayudante"
+  company = "Introducción al Álgebra"
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2015-03-01"
+  date_end = "2015-17-01"
+  description = """
+  Corrección de controles en el semestre de Otoño 2015
+  """
+
 +++
